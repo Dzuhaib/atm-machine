@@ -1,7 +1,7 @@
 {
   "name": "zuhaib4670-atm-matchine",
-  "version": "1.0.0",
-  "description": "",
+  "version": "2.4.3",
+  "description": "I have create this atm matchine for my assignments, and its pin code is: 7258",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
